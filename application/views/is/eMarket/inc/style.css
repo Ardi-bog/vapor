@@ -1,0 +1,23 @@
+.container .kotak{
+    background-color: white;
+    border-radius: 20px;
+    margin-top: -100px;
+    color: #000;
+    padding: 30px;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+}
+.kotak img{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.kotak h4{
+    text-transform: uppercase;
+    font-size: 11px;
+    color :#2980b9;
+}
+.kotak p{
+    font-size: 10px;
+    margin-top: 20px;
+    font-weight: 200;
+    color:#2980b9;
+}
